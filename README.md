@@ -2,7 +2,7 @@
 Here are several Vue projects I created. Javascript, HTML/CSS are also used in the projects.
 
 ## Local project - Jay's Notebook
-Gained style code from [黑马](http://yun.itheima.com/course/609.html?bili), Jay's Notebook includes the following features:
+Gained CSS style code from [黑马](http://yun.itheima.com/course/609.html?bili), Jay's Notebook includes the following features:
 <ol>
   <li>Add a note</li>
   <li>Delete a note</li>
